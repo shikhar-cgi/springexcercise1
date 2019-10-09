@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="springmvcdemo2.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/springmvcdemo2_war</output-path>
+    <root id="root">
+      <element id="archive" name="springmvcdemo2.war" />
+    </root>
+  </artifact>
+</component>
